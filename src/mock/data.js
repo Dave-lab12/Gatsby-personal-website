@@ -31,7 +31,7 @@ export const projectsData = [
     img: 'port1.png',
     title: 'Music Streaming site',
     info:
-      'This website was build using react and Deezer API it have features like listening, searching for tracks and adding them to favorite it stores the data to local storage so that the data wont be lost on refresh',
+      'This website was built using react and Deezer API it have features like listening, searching for tracks and adding them to favorite it stores the data to local storage so that the data wont be lost on refresh',
     info2: '',
     url: 'https://dave-lab12.github.io/musx-music-streming-web-app/',
     repo: 'https://github.com/Dave-lab12/musx-music-streming-web-app', // if no repo, the button will not show up
